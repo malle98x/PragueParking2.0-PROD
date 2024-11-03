@@ -1,0 +1,4 @@
+# Prislista för Prague Parking
+Bil:20
+MC:10
+GratisTid:10 # Gratis de första 10 minuterna
